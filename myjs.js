@@ -4,4 +4,8 @@ alert(Math.sqrt(1+1));
 alert(Math.√2+√3)
 alert(Math.1/0)
 alert(Math.0/0)
-
+alert(2+3)
+alert('2'+'3')
+alert(Number('2')+Nnumber('3'))
+alert('2'+3)
+alert(Number('2'+3)
