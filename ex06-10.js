@@ -4,5 +4,5 @@ function gazo610()
   ;}
 function gazo6101()
 {document.getElementById('who6101').innerHTML=
-'<img src="./image/JU.jpg" alt="オン">'
+'<img src="./image/JU.png" alt="オン">'
   ;}
