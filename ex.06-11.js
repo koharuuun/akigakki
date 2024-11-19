@@ -3,4 +3,4 @@ function gazo6102()
 './image/johkun.png';}
 function gazo6103()
 {document.getElementById('logo').src=
-'./image/JU.jpg';}
+'./image/julogo.png';}
