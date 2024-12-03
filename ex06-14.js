@@ -1,3 +1,3 @@
 function hyoji14() { 
-document.getElementById('julogo').src=
+document.getElementById('sunupi').src=
 './image/sunupi.png';}
