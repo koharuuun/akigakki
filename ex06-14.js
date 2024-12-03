@@ -4,4 +4,4 @@ function hyoji14()
 function hyoji15()
 {document.getElementById('logo2').src=
 './image/sunupi.png';}
- setTimeout("hyoji15()",3000); }
+ setTimeout {("hyoji15()",3000); }
