@@ -1,5 +1,4 @@
-
-function hyoji15()
-{document.getElementById('logo2').src=
-'./image/sunupi.png';}
+function mes() { 
+  document.getElementById('logo2').src=
+'./image/sunupii.png';}
 
