@@ -1,5 +1,5 @@
 function hyoji15() { 
-  document.getElementById('logo2').innerHTML=
+  document.getElementById('who2').innerHTML=
 '<img src="./image/sunupii.jpg" alt="オン">'
   ;}
 function hyoji14() { 
