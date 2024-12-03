@@ -6,4 +6,4 @@ function hyoji14() {
  document.getElementById('logo2').src=
 './image/sunupi.jpg';}
 //setTimeout()を含む関数を呼び出す
-setTimeout("hyoji13()",3000); }
+setTimeout("hyoji14()",3000); }
