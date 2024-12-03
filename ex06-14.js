@@ -1,3 +1,3 @@
 function hyoji14() { 
 document.getElementById('logo2').src=
-'./image/sunupii.png';}
+'./image/sunupii.jpg';}
