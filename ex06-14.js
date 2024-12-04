@@ -1,10 +1,6 @@
-function hyoji15() { 
-  document.getElementById('who2').innerHTML=
-'<img src="./image/sunupii.jpg" alt="オン">'
-    ; }
-
-function mes() { 
-  document.getElementById('who2').innerHTML=
-'<img src="./image/sunupi.png" alt="オン">'
-    ; }
- 
+function hyoji15()
+{document.getElementById('who2').src=
+'./image/sunupii.jpg';}
+function mess()
+{document.getElementById('who2').src=
+'./image/sunupi.png';}
