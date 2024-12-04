@@ -5,5 +5,6 @@ function hyoji15() {
 setTimeout("mess()",3000); }
 function mess() { 
   document.getElementById('who2').innerHTML=
-'<img src="./image/sunupi.png" alt="オン">'
-  ;}
+'<img src="./image/sunupi.png" alt="オン">'; }
+  document.getElementById('who2').innerHTML=
+'<img src="./image/sunupii.jpg" alt="オフ">'; }
