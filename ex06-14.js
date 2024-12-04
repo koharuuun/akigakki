@@ -3,7 +3,7 @@ function hyoji15() {
 '<img src="./image/sunupii.jpg" alt="オン">'
     ; }
 
-function mess() { 
+function mes() { 
   document.getElementById('who2').innerHTML=
 '<img src="./image/sunupi.png" alt="オン">'
     ; }
