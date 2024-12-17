@@ -4,8 +4,8 @@ function nazo710() {
   alert( Number(w2)/(Number(h2)*Number(h2)));
 if (document.getElementById('answer710').value<=Number('18.5') ){
     alert('低体重'); }
-  else if(document.getElementById('answer79').value>=Number('18.5')<Number('25') ){
+  else if(document.getElementById('answer710').value>=Number('18.5')<Number('25') ){
     alert('普通'); }
-   else if(document.getElementById('answer79').value>=Number('25') ){
+   else if(document.getElementById('answer710').value>=Number('25') ){
     alert('肥満'); } }
    
