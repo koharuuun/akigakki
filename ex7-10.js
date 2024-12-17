@@ -1,14 +1,13 @@
-function nazo10() {
+function nazo710() {
   var h2 = document.getElementById('sintyo2').value;
   var w2 =document.getElementById('taijyu2').value;
   alert( Number(w2)/(Number(h2)*Number(h2))); }
 
-function nazo10() {
-  if (document.getElementById('answer79').value=='夢'){
-    alert('あたり！'); }
-  else if(document.getElementById('answer79').value=='ゆめ'){
-    alert('あたり！'); }
-   else if(document.getElementById('answer79').value!=='夢'){
-    alert('はずれ'); }
-   else if(document.getElementById('answer79').value!=='ゆめ'){
-        alert('はずれ'); } }
+function nazo710() {
+  if (document.getElementById('answer710').value<='18.5'){
+    alert('低体重'); }
+  else if(document.getElementById('answer79').value<='18.5'>'25'){
+    alert('普通'); }
+   else if(document.getElementById('answer79').value>='25'){
+    alert('肥満'); }
+   
