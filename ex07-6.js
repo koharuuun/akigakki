@@ -1,3 +1,3 @@
 function nazo3(){
-  if (document.getElementById('answers').value!=='夢') {
+  if (document.getElementById('answer6').value!=='夢') {
     alert('はずれ'); } elese{ alert('あたり！'); } }
