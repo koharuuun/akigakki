@@ -7,5 +7,5 @@ function nazo710() {
   else if( >=Number('18.5')<Number('25') ){
     alert('普通'); }
   else if( >=Number('25')){
-    alert('肥満'); }
+      alert('肥満'); } }
   
